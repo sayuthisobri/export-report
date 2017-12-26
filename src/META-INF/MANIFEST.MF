@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: cvom.jar xpp3.jar icu4j.jar log4j.jar jrcerom.jar logging.
+ jar jai_imageio.jar pfjgraphics.jar JDBInterface.jar QueryBuilder.jar
+  webreporting.jar XMLConnector.jar CrystalCommon2.jar keycodeDecoder.
+ jar commons-logging.jar commons-lang-2.1.jar webreporting-jsf.jar Dat
+ abaseConnectors.jar CrystalReportsRuntime.jar commons-collections-3.1
+ .jar commons-configuration-1.2.jar com.azalea.ufl.barcode.1.0.jar mys
+ ql-connector-java-5.1.30.jar
+Main-Class: Main
+
